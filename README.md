@@ -1,5 +1,3 @@
-### Hi 🍀
-
 <!--
 **maojui/maojui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm maojui 🍀
+
+I'm a master student in Institute of Computer Science and Engineering from [NYCU](https://www.nycu.edu.tw/), Taiwan. Major in information security.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maojui&theme=nord&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maojui&theme=nord&layout=compact&card_width=445)
